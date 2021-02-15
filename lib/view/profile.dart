@@ -60,6 +60,11 @@ class _ProfileState extends State<Profile> {
               bottom: 0,
               child: Column(
                 children: [
+                  // Text(
+                  //   'Profile',
+                  //   style: titleTextStyle,
+                  //   textAlign: TextAlign.center,
+                  // ),
                   Text(
                     'Profile',
                     style: titleTextStyle,
